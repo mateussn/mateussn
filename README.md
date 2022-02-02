@@ -10,3 +10,10 @@ A phrase that I carry with me in my life:
 "Try it once, twice, three times and if possible try the fourth, the fifth and as many times as necessary. Just don't give up on the first few attempts, persistence is a friend of conquest. If you want to get to where most people don't go, do the that most don't."
 
 Bill Gates
+
+--- 
+Focusing on:
+
+<img height="40" width="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height="40" width="50" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+
+

@@ -6,5 +6,3 @@
 I'm extremely passionate about the world of programming, and since a very young age curious about how things really work in computing. I love learning new technologies and facing challenges, because for me, being stagnant is a nightmare. Lately I've been giving a lot of focus to the most current technologies for Web Development.
 
 #### Focusing on: Next.js, Laravel and Docker
-
-<img height="40" width="50" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><img height="40" width="50" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><img height="40" width="50" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
